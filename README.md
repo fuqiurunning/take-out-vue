@@ -1,6 +1,6 @@
 # take-out-vue
 
-> A Vue.js project
+> A Vue.js project to create static vue UI.
 
 ## Build Setup
 
